@@ -34,7 +34,7 @@ except ImportError:
     sys.exit(1)
 
 
-TURTLEBOT_URDF_PATH = "C:/Users/Devan/Downloads/pybullet_robots-master/pybullet_robots-master/data/turtlebot.urdf"
+TURTLEBOT_URDF_PATH = "C:/Users/Devan/pybullet_robots-master/pybullet_robots-master/data/turtlebot.urdf"
 URDF_FALLBACK        = "r2d2.urdf"
 
 ROBOT_COLOR     = [0.05, 0.05, 0.05, 1.0]
